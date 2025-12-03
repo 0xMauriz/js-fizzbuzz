@@ -11,7 +11,7 @@ for (let i = 1; i <= 100; i++) {
 
     }
 
-    //Il programma verifica se il nuumero è multiplo di 3 e se lo è stampa "fizz" al posto del numero
+    //Il programma verifica se il numero è multiplo di 3 e se lo è stampa "fizz" al posto del numero
 
     else if (i % 3 === 0) {
 
@@ -19,7 +19,7 @@ for (let i = 1; i <= 100; i++) {
 
     }
 
-    //Il programma verifica se il nuumero è multiplo di 5 e se lo è stampa "buzz" al posto del numero
+    //Il programma verifica se il numero è multiplo di 5 e se lo è stampa "buzz" al posto del numero
 
     else if (i % 5 === 0) {
 
